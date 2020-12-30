@@ -46,6 +46,7 @@ def main():
         bringing = ', '.join(items)
 
     print('You are bringing {}.'.format(bringing))
+    print('You are bringing {bringing}.')
 
 
 # --------------------------------------------------
